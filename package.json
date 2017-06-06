@@ -1,0 +1,26 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Homework Week 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Liri-Node-App"
+  },
+  "author": "Patty Cross",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "curl": "^0.1.4",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "inquirer": "^3.0.6",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
